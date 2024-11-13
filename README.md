@@ -10,6 +10,7 @@
 - 📫 How to reach me **new6294@naver.com**
 
 <h3 align="left">Connect with me:</h3>
+Email please
 <p align="left">
 </p>
 
