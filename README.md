@@ -20,3 +20,5 @@ Email please
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehojeong1130&show_icons=true&locale=en&layout=compact" alt="jaehojeong1130" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehojeong1130&show_icons=true&locale=en" alt="jaehojeong1130" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
