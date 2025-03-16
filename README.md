@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
 
-- 🌱 I’m currently learning **C++, Unreal 4**
+- 🌱 I’m currently learning **C++, UE4, UE5, C#, Unity**
 
 - 📫 How to reach me **new6294@naver.com**
 
