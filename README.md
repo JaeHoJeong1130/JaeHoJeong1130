@@ -1,6 +1,6 @@
 ![JaeHoJeong Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm JaeHo Jeong</h1>
-<h3 align="center">AI 좋아</h3>
+<h1 align="center">인공지능</h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/9c/02/51/9c0251bcbf1114821afc3551ddb64b00.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
