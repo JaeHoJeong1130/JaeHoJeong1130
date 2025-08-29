@@ -1,7 +1,7 @@
 ![JaeHoJeong Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm JaeHo Jeong</h1>
-<h3 align="center">AI로 먹고살고 싶은 사람입니다</h3>
-<img align="right" alt="Coding" width="400" src="https://i.namu.wiki/i/XAiv52cRGkRONk_qD_DNMyzhf7y4q1ru5WJqZN-E7KdHH55JAEDQmGgqLcdNzlCrFC0UhSfgPxZ-TpU9XiBZcA.gif">
+<h3 align="center">AI 좋아</h3>
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/9c/02/51/9c0251bcbf1114821afc3551ddb64b00.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
 
