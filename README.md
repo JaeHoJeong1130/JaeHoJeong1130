@@ -19,12 +19,12 @@ Email please
 <h5>- 갑상선암 진단 분류 해커톤 : 양성과 악성, AI로 정확히 구분하라! (Public 19등/988)</h5>
 <h5>- Boost up AI 2025 : 신약 개발 경진대회 (Public 28등/1283)</h5>
 <h5>- Jump AI(.py) 2025 : 제 3회 AI 신약개발 경진대회(Private 43등/1119)</h5>
-<h5>- 2025 전력사용량 예측 AI 경진대회 (Private 6등/1566)</h5>
-<h5>- 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라! (최종 3등/621)</h5>
+<h5>- 2025 전력사용량 예측 AI 경진대회 (**최종 6등**/1566)</h5>
+<h5>- 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라! (**최종 3등**/621)</h5>
 <h5>- 2025 금융 AI Challenge : 금융 AI 모델 경쟁 (Public 139등/1061)</h5>
 <h5>- 2025 동원 x 카이스트 AI Competition: Unlocking Future Sales & Demographics (Public 12등/666)</h5>
 <h5>- 데이콘 Basic 고객 지원 등급 분류 : 도움이 필요한 고객을 찾아라! (Private 31등/517)</h5>
-<h5>- 스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회 (최종 5등/417)</h5>
+<h5>- 스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회 (**최종 5등**/417)</h5>
 <br>
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
