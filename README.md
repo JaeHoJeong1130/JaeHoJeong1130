@@ -25,6 +25,7 @@ Email please
 <h5>- 2025 동원 x 카이스트 AI Competition: Unlocking Future Sales & Demographics (Public 12등/666)</h5>
 <h5>- 데이콘 Basic 고객 지원 등급 분류 : 도움이 필요한 고객을 찾아라! (Private 31등/517)</h5>
 <h5>- 스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회 (**최종 5등**/417)</h5>
+<h5>- TOSS NEXT ML Challenge 광고 클릭 예측(CTR) 모델 개발 (private 30등/997)</h5>
 <br>
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
