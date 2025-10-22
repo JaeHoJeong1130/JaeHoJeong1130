@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
 
-- 현재 공부중인 것들 **python, keras.v2, pytorch, keras.v1, docker**
+- 현재 공부중인 것들 **python, keras.v2, pytorch, keras.v1, LLM**
 - 과거에 공부했던 것들 **C++, UE4, UE5, C#, Unity**
 
 - 📫 연락처 **jjeaho22@gmail.com**
