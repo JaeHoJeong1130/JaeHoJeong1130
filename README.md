@@ -1,6 +1,6 @@
 ![JaeHoJeong Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm JaeHo Jeong</h1>
-<h1 align="center"> -> 인공지능 <- </h3>
+<h1 align="center"> ->  <- </h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/9c/02/51/9c0251bcbf1114821afc3551ddb64b00.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
@@ -29,7 +29,5 @@ Email please
 <h5>- 스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회 (**최종 5등**/417)</h5>
 <h5>- TOSS NEXT ML Challenge 광고 클릭 예측(CTR) 모델 개발 (private 30등/2597)</h5>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaehojeong1130&show_icons=true&locale=en" alt="jaehojeong1130" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaehojeong1130&" alt="jaehojeong1130" /></p>
