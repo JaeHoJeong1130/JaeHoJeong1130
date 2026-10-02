@@ -1,11 +1,10 @@
 ![JaeHoJeong Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm JaeHo Jeong</h1>
 <h1 align="center"> (•˓◞•̀ )☝︎ </h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/9c/02/51/9c0251bcbf1114821afc3551ddb64b00.gif">
 
-- 📫 연락처 **jjeaho22@gmail.com**
+<h5 align="center">📫 연락처 jjeaho22@gmail.com</h3>
 
-<p align="left">
+<p align="center">
 </p>
 <br>
 <h3 align="left">[대회 참여 이력]:</h3>
@@ -26,4 +25,4 @@
 - 현재 공부중인 것들 **python, keras.v2, pytorch, keras.v1, LLM**
 - 과거에 공부했던 것들 **C++, UE4, UE5, C#, Unity**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaehojeong1130&" alt="jaehojeong1130" /></p>
+<img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/9c/02/51/9c0251bcbf1114821afc3551ddb64b00.gif">
