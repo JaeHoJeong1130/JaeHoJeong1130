@@ -3,15 +3,8 @@
 <h1 align="center"> (•˓◞•̀ )☝︎ </h3>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/9c/02/51/9c0251bcbf1114821afc3551ddb64b00.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaehojeong1130&label=Profile%20views&color=0e75b6&style=flat" alt="jaehojeong1130" /> </p>
-
-- 현재 공부중인 것들 **python, keras.v2, pytorch, keras.v1, LLM**
-- 과거에 공부했던 것들 **C++, UE4, UE5, C#, Unity**
-
 - 📫 연락처 **jjeaho22@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-Email please
 <p align="left">
 </p>
 <br>
@@ -29,5 +22,8 @@ Email please
 <h5>- 스마트 해운물류 x AI 미션 챌린지 : 스마트 항만 AGV 경로 최적화 경진대회 (**최종 5등**/417)</h5>
 <h5>- TOSS NEXT ML Challenge 광고 클릭 예측(CTR) 모델 개발 (private 30등/2597)</h5>
 <br>
+
+- 현재 공부중인 것들 **python, keras.v2, pytorch, keras.v1, LLM**
+- 과거에 공부했던 것들 **C++, UE4, UE5, C#, Unity**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaehojeong1130&" alt="jaehojeong1130" /></p>
